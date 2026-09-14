@@ -118,7 +118,7 @@ brew doctor
 
 If you see **"Your system is ready to brew,"** you are good to go!
 
-> **Pro-Tip:** Keep your packages updated by running `brew update` regularly.
+> **Pro-Tip:** Keep your packages updated by running `brew update && brew upgrade` regularly.
 
 ---
 
